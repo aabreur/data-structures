@@ -1,0 +1,11 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "alexandre.abreu.uff@gmail.com",
+  "license": "ISC"
+}
